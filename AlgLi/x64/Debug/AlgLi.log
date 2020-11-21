@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Students\source\repos\AlgLi\Header.h(12,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Students\source\repos\AlgLi\Header.h(16,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Students\source\repos\AlgLi\Header.h(20,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Students\source\repos\AlgLi\Header.h(23,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Students\source\repos\AlgLi\Source.cpp(51,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Students\source\repos\AlgLi\Source.cpp(126,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Students\source\repos\AlgLi\Source.cpp(126,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AlgLi.vcxproj -> C:\Users\Students\source\repos\AlgLi\x64\Debug\AlgLi.exe
